@@ -37,3 +37,13 @@ body {
 .navbar-dark {
     background-color: #eb9a21;
 }
+
+.reserve {
+    background-color: #54b354;
+    color: white;
+}
+
+.card-header {
+    background-color: #54b354;
+    color: white;
+}
